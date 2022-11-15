@@ -13,7 +13,7 @@ Issaga
 
 Extrait du DockerFile :
 
-    vi Dockerfile
+    nano Dockerfile
 
 ![DockerFile](https://media.discordapp.net/attachments/1041632175163981887/1042023323812499517/image.png)
 
